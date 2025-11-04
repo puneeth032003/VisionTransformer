@@ -1,0 +1,12 @@
+torch
+torchvision
+matplotlib
+numpy
+pandas
+
+# Create .gitignore
+%%writefile /content/VisionTransformer/.gitignore
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store

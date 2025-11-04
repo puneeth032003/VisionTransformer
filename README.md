@@ -1,2 +1,1 @@
-# VisionTranformer
-Vision Transformer (ViT) implemented from scratch in PyTorch
+# Paste the full updated README content here
