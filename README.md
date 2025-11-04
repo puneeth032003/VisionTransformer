@@ -21,7 +21,8 @@ It demonstrates how transformers, originally for NLP, can be adapted to vision t
 ## Notebook
 Run directly on **Google Colab**:
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/puneeth032003/VisionTransformer/blob/main/notebooks/Vision_Transformers_CIFAR10.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/puneeth032003/VisionTransformer/blob/main/notebooks/Vision_Transformers_CIFAR10.ipynb)
+
 
 ## Installation
 ```bash
